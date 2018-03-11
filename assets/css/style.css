@@ -187,3 +187,26 @@ footer .social-links li a i:hover{
 footer #footer-details{
     margin: 20px;
 }
+
+.section-heading{
+    font-family: "Exo", "sans-serif";
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+
+/*---------------------------------Section*/
+
+section div .bg-color-three-reasons{
+    background-color: #ffffff;
+}
+
+section div .section-column{
+    padding: 0 30px 30px;
+    float: none;
+    display: table-cell;
+}
+
+section div .row-table{
+    display: table;
+}
